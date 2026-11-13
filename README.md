@@ -1,1 +1,1 @@
-# McAllister-managment
+# mcallister-managment
